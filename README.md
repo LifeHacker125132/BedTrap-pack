@@ -9,8 +9,8 @@
 ## Pack authors:
 - MamaHacker#1983
 - ajaj#7615
-- Kightinum#8130
-- Eureka#0429 <--- Дристака
+- Kightinum#8130 <--- Дристака
+- Eureka#0429
 
 ### BedTrap Discord:
 - https://discord.gg/Exfp62YSd6
