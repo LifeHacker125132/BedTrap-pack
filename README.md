@@ -10,3 +10,6 @@
 - MamaHacker#1983
 - ajaj#7615
 - Kightinum#8130
+
+### BedTrap Discord:
+- https://discord.gg/Exfp62YSd6
