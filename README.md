@@ -7,9 +7,9 @@
 - The texture pack should now appear in the list of usable add-ons
 
 ## Pack authors:
-- MamaHacker#1983 <--- Дристунец
-- ajaj#7615 <--- Дристайло
-- Kightinum#8130 <--- Дристака
+- MamaHacker#1983
+- ajaj#7615
+- Kightinum#8130
 - Eureka#0429 <--- Дрищун
 
 ### BedTrap Discord:
