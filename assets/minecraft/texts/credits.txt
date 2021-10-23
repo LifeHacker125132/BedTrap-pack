@@ -14,4 +14,5 @@
 
 §7 Resourcepack Designers
 §f LifeHacker125132 (MamaHacker#1983)
-§f Aitex (Kightinum#3000)
+§f Aitex (Kightinum#8130)
+§f Kiriyaga (ajaj#7615)
